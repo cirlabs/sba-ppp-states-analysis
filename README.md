@@ -10,7 +10,7 @@ New York Daily News (partner): https://www.nydailynews.com/news/politics/ny-fede
 ### Contents
 - Look up your state's data in [data.csv](data.csv) 
 - Information on each key in data.csv is in [dictionary.csv](dictionary.csv)
-
+- A copy of the SBA slides are in [PPP Deck copy.pdf](PPP%20Deck%20copy.pdf)
 
 ### Key findings
 
