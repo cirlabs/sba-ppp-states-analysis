@@ -1,0 +1,12 @@
+keys,description,source,link
+state_name,N/A,US Census,
+state_code,two-digit code for state (commonly called a FIPS code),US Census,
+postal_code,state postal code,US Census,
+vote_2016,2016 electoral college result,National Archives,https://www.archives.gov/electoral-college/2016
+businesses,Number of small businesses in the state (<500 employees) in 2017 (latest data available),US Census,https://www.census.gov/data/tables/2017/econ/susb/2017-susb-annual.html
+employees,Number of people employed at small businesses in the state in 2017 (latest data available),US Census,https://www.census.gov/data/tables/2017/econ/susb/2017-susb-annual.html
+total_wages_thousands,"Total wages paid to small businesses in the state, in thousands in 2017 (latest data available)",US Census,https://www.census.gov/data/tables/2017/econ/susb/2017-susb-annual.html
+ppe_loan_count,Number of PPP loans made to small businesses in the state,Small Business Administration,https://www.sba.gov/sites/default/files/2020-04/PPP%20Deck%20copy.pdf
+ppe_amount,Total value of PPP loans made to small businesses in the state,Small Business Administration,https://www.sba.gov/sites/default/files/2020-04/PPP%20Deck%20copy.pdf
+businesses_receiving_ppe_pct,Percentage of small businesses in the state receiving PPP loans,Reveal calculation (ppe_loan_count / businesses),
+ppe_amount_per_employee,Average amount of money provided per small business employee in state,Reveal calculation (ppe_amount / employees),
