@@ -1,5 +1,6 @@
-# Analysis of the Paycheck Protection Program 
-## Bailout money bypasses hard-hit New York, California for North Dakota, Nebraska
+# Analysis of the SBA's Paycheck Protection Program 
+
+Bailout money bypasses hard-hit New York, California for North Dakota, Nebraska
 
 Reveal: https://www.revealnews.org/article/bailout-money-bypasses-hard-hit-new-york-california-for-north-dakota-nebraska/
 
@@ -27,5 +28,7 @@ You can also find up the total number of small businesses in your state (column 
 Column “H” indicates the number of PPP loans small businesses in your state received and column “I” the amount of relief they got. Column “K” is the amount of money provided per employee at small businesses in the state.
 
 
-[Aaron Glantz](mailto:aglantz@revealnews.org), Senior Reporter
-[Soo Oh](mailto:soh@revealnews.org), Data Editor
+### Contact
+
+- [Aaron Glantz](mailto:aglantz@revealnews.org), Senior Reporter
+- [Soo Oh](mailto:soh@revealnews.org), Data Editor
